@@ -1,6 +1,10 @@
 package com.ys.test;
 
 public class MyTest {
+	
+	public static void main(String[] args) {
+		
+	}
   
 	
 	
